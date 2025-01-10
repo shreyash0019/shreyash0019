@@ -19,7 +19,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 </div>
 
 ---
----
+
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 <div align="center">
