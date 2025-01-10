@@ -49,7 +49,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
     <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <!-- Add other social links here -->
+    
 </div>
 
 ---
