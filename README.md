@@ -19,29 +19,6 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 </div>
 
 ---
-
-<h2 align="center">📚 Featured Projects 📚</h2>
-
-### 🚀 **E-Commerce Website**
-- Developed a user-friendly e-commerce platform with live order tracking functionality.
-- Integrated database operations using SQL.
-- **Technologies Used:** HTML, CSS, JavaScript, SQL.
-
-### 💼 **Employee Database Management System**
-- Built a robust system to manage employee data, including adding, updating, and deleting records.
-- Designed backend operations using Django and integrated database operations with SQL.
-- **Technologies Used:** Python, Django, SQL.
-
-### 📊 **IPL 2024 Players Auction Data Analytics**
-- Conducted data analysis on IPL auction data to extract actionable insights.
-- Visualized player statistics and trends using Power BI.
-- **Technologies Used:** NumPy, Pandas, Power BI.
-
-### 🚉 **Indian Railways Data Analytics**
-- Analyzed datasets to identify operational patterns and inefficiencies.
-- Presented results using Power BI for data-driven decision-making.
-- **Technologies Used:** Power BI.
-
 ---
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
@@ -49,7 +26,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
     <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <!-- Add other social links here -->
+    
 </div>
 
 ---
