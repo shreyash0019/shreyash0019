@@ -15,7 +15,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,git,github,numpy,pandas,matplotlib,powerbi" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,numpy,pandas,matplotlib,powerbi" />
 </div>
 
 ---
