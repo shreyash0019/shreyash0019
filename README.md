@@ -15,7 +15,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,powerbi" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" />
@@ -25,26 +25,9 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <div align="center">
-   
+    <!-- IDEs grouped together -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" />
-</div>
-
----
-
-<h2 align="center">🌐 Connect With Me 🌐</h2>
-<div align="center">
-    <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
-
----
-
-<h2 align="center">🎓 Certifications 🎓</h2>
-- Google Cybersecurity Professional Certificate (2024).
-
----
-
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+    <!-- Postman and Git grouped together -->
+    <img src="https://skillicons.dev/icons?i=
