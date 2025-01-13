@@ -15,18 +15,23 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,git,github,pandas,numpy,matplotlib,powerbi" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,git,github,numpy,pandas,matplotlib,powerbi" />
 </div>
 
 ---
 
+<h2 align="center">🛠️ Tools 🛠️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,intellij,postman,git" />
+</div>
+
+---
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
 </div>
 
 ---
