@@ -15,14 +15,17 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,numpy,pandas,matplotlib,powerbi" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,git,github,pandas,matplotlib,powerbi" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" />
 </div>
 
 ---
 
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,intellij,postman,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" />
 </div>
 
 ---
