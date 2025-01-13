@@ -25,8 +25,9 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git" />
+   
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" />
 </div>
 
