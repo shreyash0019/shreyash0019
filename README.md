@@ -15,7 +15,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,c,cpp,java,python,django,flask,mongodb,mysql,oracle" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,c,cpp,java,python,django,flask,mongodb,mysql" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin-left: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin-left: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin-left: 10px;" />
@@ -28,7 +28,7 @@ I'm a Full Stack Python Developer with expertise in designing and building dynam
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" style="margin-left: 10px; margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=postman,git" />
+    <img src="https://skillicons.dev/icons?i=postman,git,mysql" />
 </div>
 
 ---
