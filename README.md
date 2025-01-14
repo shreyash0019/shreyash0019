@@ -8,7 +8,7 @@
 
 <h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">
-I'm a Full Stack Python Developer with expertise in designing and building dynamic web applications. My technical stack includes a blend of frontend and backend technologies, along with a passion for data-driven projects. I enjoy solving real-world problems through code and thrive on continuous learning and improvement.
+I'm a Full Stack Developer with expertise in designing and building dynamic web applications. My technical stack includes a blend of frontend and backend technologies, along with a passion for data-driven projects. I enjoy solving real-world problems through code and thrive on continuous learning and improvement.
 </p>
 
 ---
