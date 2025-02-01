@@ -29,6 +29,8 @@ I'm a Full Stack Developer with expertise in designing and building dynamic web 
     <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" style="margin-left: 10px; margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=postman,git,figma,netlify" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" height="40" style="margin-right: 10px;" />
+
 </div>
 
 ---
