@@ -19,7 +19,7 @@ I'm a Full Stack Developer with expertise in designing and building dynamic web 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin-right: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin-right: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin-right: 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/RestApi.svg" alt="REST API" height="40" style="margin-right: 10px;" />
+    <img src="https://www.iconpacks.net/icons/2/free-icon-rest-api-blue-logo-22098.png" alt="REST API" height="40" style="margin-right: 10px;" />
 </div>
 
 ---
