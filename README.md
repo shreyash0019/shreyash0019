@@ -15,7 +15,7 @@ I'm a Full Stack Developer with expertise in designing and building dynamic web 
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,c,cpp,java,python,django,flask,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,nodejs,c,cpp,java,python,django,flask,mongodb,mysql" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
