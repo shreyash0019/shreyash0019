@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Shreyash+Ingle!;" />
 </h1>
 
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from Hyderabad,India</h3>
 
 ---
 
@@ -40,11 +40,6 @@ I'm a Full Stack Developer with expertise in designing and building dynamic web 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
-
----
-
-<h2 align="center">🎓 Certifications 🎓</h2>
-- Google Cybersecurity Professional Certificate (2024).
 
 ---
 
