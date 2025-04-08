@@ -1,46 +1,63 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Shreyash+Ingle!;" />
-</h1>
+# 👋 Hello there! I'm Shreyash Ingle
 
-<h3 align="center">A Passionate Full Stack Developer from Hyderabad,India</h3>
+## 💻 A Passionate Full Stack Developer from Hyderabad, India
 
 ---
 
-<h2 align="center">🌟 About Me 🌟</h2>
-<p align="center">
-I'm a Full Stack Developer with expertise in designing and building dynamic web applications. My technical stack includes a blend of frontend and backend technologies, along with a passion for data-driven projects. I enjoy solving real-world problems through code and thrive on continuous learning and improvement.
-</p>
+## 🌟 About Me
+
+Hi! I'm a Full Stack Developer who loves building dynamic web applications and data-driven solutions. From frontend pixels to backend logic, I enjoy tackling real-world problems with code. Always learning, always building 🚀
 
 ---
 
-<h2 align="center">⚒️ Technical Skills ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,c,cpp,java,python,django,flask,mongodb,mysql" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin-right: 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin-right: 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin-right: 10px;" />
-</div>
+## ⚒️ Technical Skills
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**Backend & Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Data & Analysis:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2066A0?style=flat&logo=matplotlib)
 
 ---
 
-<h2 align="center">🛠️ Tools 🛠️</h2>
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" style="margin-left: 10px; margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=postman,git,figma,netlify" />
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="40" style="margin-right: 10px;" />
-</div>
+## 🧰 Tools I Use
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-<h2 align="center">🌐 Connect With Me 🌐</h2>
-<div align="center">
-    <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-ingle-)
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+✨ *Thanks for stopping by my profile!* ✨
