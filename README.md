@@ -1,80 +1,46 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00b2ff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shreyash+Ingle;Full+Stack+Developer;Python+%7C+Django+%7C+React;Lifelong+Learner+%26+Tech+Explorer" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Shreyash+Ingle!;" />
+</h1>
 
+<h3 align="center">A Passionate Full Stack Developer from Hyderabad,India</h3>
+
+---
+
+<h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d98ba&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontAlignY=40" />
+I'm a Full Stack Developer with expertise in designing and building dynamic web applications. My technical stack includes a blend of frontend and backend technologies, along with a passion for data-driven projects. I enjoy solving real-world problems through code and thrive on continuous learning and improvement.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🏙️ Full Stack Developer based in **Hyderabad, India**  
-- 🚀 I build fast, responsive, and intelligent web apps  
-- 💡 Tech-obsessed: From **APIs to Analytics**, I love it all  
-- 📈 Growing in **Data Analytics + Backend Engineering**  
-- 🧠 Learning new things every day — currently diving into **Power BI, Pandas & PostgreSQL**
-
----
-
-## 🚀 Tech Stack
-
-### 🌐 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,java,python,django,flask,c,cpp" />
-</p>
-
-### 💾 Databases & Data Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="40"/>
-</p>
+<h2 align="center">⚒️ Technical Skills ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,angular,c,cpp,java,python,django,flask,mongodb,mysql" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin-right: 10px;" />
+</div>
 
 ---
 
-## 🛠 Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,jupyter,postman,git,figma,netlify" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" />
-</p>
+<h2 align="center">🛠️ Tools 🛠️</h2>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40" style="margin-left: 10px; margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=postman,git,figma,netlify" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="40" style="margin-right: 10px;" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyash0019&theme=radical&show_icons=true&hide_border=true&border_radius=10" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash0019&theme=radical&hide_border=true&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash0019&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150"/>
-</p>
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shreyashingle2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shreyash0019" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d98ba&height=120&section=footer"/>
-</p>
-
-<p align="center"><i>✨ Thanks for visiting my profile ✨</i></p>
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
